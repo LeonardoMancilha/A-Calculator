@@ -47,8 +47,8 @@
 }
 
 h1 {
-    position: absolute;
-    top: 18%;
-    left: 43.5%;
+    font-size: 36px;
+    margin-top: 120px;
+    text-align: center;
     
 }
