@@ -1,6 +1,6 @@
 <h1 align="center">Calculator</h1>
 
-<img src="https://user-images.githubusercontent.com/74615811/176948282-717b96ad-aae5-4922-904b-18eba7f7454e.png" alt="Imagem da calculadora">
+<img src="https://user-images.githubusercontent.com/74615811/176953781-401c77f2-7737-411f-b2c3-dfb0f4fb7936.png" alt="Imagem da calculadora">
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
