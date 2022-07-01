@@ -58,7 +58,7 @@ English: Clear calculation
 
 <p align="center">
 
-
+https://user-images.githubusercontent.com/74615811/176953613-0a361d62-5853-4c29-a574-b15b136f9e52.mp4
 
 </p>
 
@@ -66,6 +66,7 @@ English: Clear calculation
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
+https://user-images.githubusercontent.com/74615811/176953530-04e1db2b-8cef-4e5f-9708-dedc83edf8cd.mp4
 
 
 </p>
