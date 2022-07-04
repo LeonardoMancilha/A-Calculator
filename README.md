@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/74615811/176953530-04e1db2b-8cef-4e5f-
 
 ## 📁 Acesso ao projeto / Access the project
 
-Portuguese: Você pode acessar os arquivos do projeto clicando [here](https://github.com/LeonardoMancilha/A-Calculator/find/main). <br>
+Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/A-Calculator/find/main). <br>
 English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/A-Calculator/find/main).
 
 ## 📝 Licença / License
